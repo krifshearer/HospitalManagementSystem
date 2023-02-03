@@ -1,5 +1,5 @@
 # HospitalManagementSystem
-My SQL Database Model of an example Hospital management System (done with MySQl)
+SQL Database Model of an example Hospital management System (MySQL)
 
 
 This project was inspired by https://github.com/hrishikeshathalye/Hospital-Management-System-DBMS. It uses similar ER structure; although, I've added, manipulated, and
